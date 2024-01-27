@@ -1,0 +1,1 @@
+A frontend test automation project using Cabybara, Ruby, RSpec etc
